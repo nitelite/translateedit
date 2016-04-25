@@ -1,0 +1,6 @@
+[
+	{ "caption": "-" },
+	{ "caption": "Mark as translation JSON", "command": "set_json_translate_file" },
+	{ "caption": "Clear all translation JSON", "command": "clear_json_translate_file" },
+	{ "caption": "-", "id": "end" }
+]

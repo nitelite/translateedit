@@ -1,0 +1,3 @@
+[
+	{ "keys": ["ctrl+shift+t"], "command": "input_translation_key" }
+]
